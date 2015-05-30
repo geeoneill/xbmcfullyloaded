@@ -1,0 +1,2 @@
+# xbmcfullyloaded
+wizard repo
